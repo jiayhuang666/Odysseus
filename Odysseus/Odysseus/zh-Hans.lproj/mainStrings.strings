@@ -1,0 +1,23 @@
+/* 
+  mainStrings.strings
+  Odysseus
+
+  Created by Zhengri Fan on 4/28/16.
+  Copyright © 2016 Zhengri Fan, Jiayu Huang. All rights reserved.
+*/
+
+
+"OK" = "好";
+"Cancel" = "取消";
+"Please go to privacy setting to grant permission" = "请到隐私设置中设置权限";
+"Setting" = "设置";
+"Choose from library" = "照片";
+"Photo Library Unavailable" = "照片不可用";
+"Take New Photo" = "相机";
+"Camera Unavailable" = "相机不可用";
+"Please choose the following actions" = "请选择";
+"Do you want to remove this image?" = "您想删除这张照片吗";
+"No" = "否";
+"Yes" = "是";
+"Anything set to title" = "标题";
+"What do you want to say" = "内容";

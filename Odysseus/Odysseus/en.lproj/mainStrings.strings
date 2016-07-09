@@ -1,0 +1,23 @@
+/* 
+  mainStrings.strings
+  Odysseus
+
+  Created by Zhengri Fan on 4/28/16.
+  Copyright © 2016 Zhengri Fan, Jiayu Huang. All rights reserved.
+*/
+
+
+"OK" = "OK";
+"Cancel" = "Cancel";
+"Please go to privacy setting to grant permission" = "Please go to privacy setting to grant permission";
+"Setting" = "Setting";
+"Choose from library" = "Choose from library";
+"Photo Library Unavailable" = "Photo Library Unavailable";
+"Take New Photo" = "Take New Photo";
+"Camera Unavailable" = "Camera Unavailable";
+"Please choose the following actions" = "Please choose the following actions";
+"Do you want to remove this image?" = "Do you want to remove this image?";
+"No" = "No";
+"Yes" = "Yes";
+"Anything set to title" = "Diary Title";
+"What do you want to say" = "What do you want to say";

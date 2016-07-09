@@ -1,0 +1,54 @@
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "1SS-13-ptP"; */
+"1SS-13-ptP.text" = "标题";
+
+/* Class = "UINavigationItem"; title = "Your Diary"; ObjectID = "34Z-Li-x8n"; */
+"34Z-Li-x8n.title" = "日记";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "5D0-xe-vFK"; */
+"5D0-xe-vFK.text" = "日期";
+
+/* Class = "UINavigationItem"; title = "About"; ObjectID = "8dX-Uw-dAl"; */
+"8dX-Uw-dAl.title" = "关于";
+
+/* Class = "UIViewController"; title = "MainMapView"; ObjectID = "9pv-A4-QxB"; */
+"9pv-A4-QxB.title" = "MainMapView";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "OrQ-KD-hy6"; */
+"OrQ-KD-hy6.title" = "取消";
+
+/* Class = "UINavigationItem"; title = "New Note *"; ObjectID = "RNz-6t-813"; */
+"RNz-6t-813.title" = "新日记";
+
+/* Class = "UITabBarItem"; title = "About"; ObjectID = "RSX-6m-gMe"; */
+"RSX-6m-gMe.title" = "关于";
+
+/* Class = "UILabel"; text = "Credit to: Jiayu Huang"; ObjectID = "c3I-GB-6bI"; */
+"c3I-GB-6bI.text" = "作者：黄家瑜";
+
+/* Class = "UILabel"; text = "Zhengri Fan"; ObjectID = "iz3-An-EXu"; */
+"iz3-An-EXu.text" = "范正日";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "m1v-Me-D5d"; */
+"m1v-Me-D5d.title" = "地图";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "mEN-lF-yxn"; */
+"mEN-lF-yxn.title" = "保存";
+
+/* Class = "UITabBarItem"; title = "About"; ObjectID = "nfc-8l-Srp"; */
+"nfc-8l-Srp.title" = "关于";
+
+/* Class = "UIBarButtonItem"; title = "Edit"; ObjectID = "sfn-GI-VLh"; */
+"sfn-GI-VLh.title" = "编辑";
+
+/* Class = "UILabel"; text = "Bucknell University 2016"; ObjectID = "ujU-Oc-b51"; */
+"ujU-Oc-b51.text" = "Bucknell University 2016";
+
+/* Class = "UINavigationItem"; title = "Odysseus"; ObjectID = "y9o-DZ-8Pj"; */
+"y9o-DZ-8Pj.title" = "Odysseus";
+
+/* Class = "UILabel"; text = "↓ To Read More"; ObjectID = "yJw-GD-HrL"; */
+"yJw-GD-HrL.text" = "↓ 向下阅读";
+
+/* Class = "UITabBarItem"; title = "Diary"; ObjectID = "yKz-Z4-qgb"; */
+"yKz-Z4-qgb.title" = "日记";
